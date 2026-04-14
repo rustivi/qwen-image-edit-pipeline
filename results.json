@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "source_image_id": "img_001",
+    "source_image_path": "images/original/img_001.jpg",
+    "prompt": "Add heavy snowstorm and blizzard to the mountain scene",
+    "result_image_id": "img_001_edited",
+    "result_image_path": "images/edited/img_001_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 2,
+    "source_image_id": "img_002",
+    "source_image_path": "images/original/img_002.jpg",
+    "prompt": "Transform the forest to autumn with orange and red falling leaves",
+    "result_image_id": "img_002_edited",
+    "result_image_path": "images/edited/img_002_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 3,
+    "source_image_id": "img_003",
+    "source_image_path": "images/original/img_003.jpg",
+    "prompt": "Change the forest lighting to a magical moonlit night scene",
+    "result_image_id": "img_003_edited",
+    "result_image_path": "images/edited/img_003_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 4,
+    "source_image_id": "img_004",
+    "source_image_path": "images/original/img_004.jpg",
+    "prompt": "Add glowing mushrooms and fairy lights to the dark forest",
+    "result_image_id": "img_004_edited",
+    "result_image_path": "images/edited/img_004_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 5,
+    "source_image_id": "img_005",
+    "source_image_path": "images/original/img_005.jpg",
+    "prompt": "Transform to a winter scene with snow covering all the branches",
+    "result_image_id": "img_005_edited",
+    "result_image_path": "images/edited/img_005_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 6,
+    "source_image_id": "img_006",
+    "source_image_path": "images/original/img_006.jpg",
+    "prompt": "Add a dramatic tropical storm with dark clouds and heavy rain",
+    "result_image_id": "img_006_edited",
+    "result_image_path": "images/edited/img_006_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 7,
+    "source_image_id": "img_007",
+    "source_image_path": "images/original/img_007.jpg",
+    "prompt": "Transform the misty forest into a cherry blossom spring scene",
+    "result_image_id": "img_007_edited",
+    "result_image_path": "images/edited/img_007_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 8,
+    "source_image_id": "img_008",
+    "source_image_path": "images/original/img_008.jpg",
+    "prompt": "Change the sunset to a stunning aurora borealis northern lights",
+    "result_image_id": "img_008_edited",
+    "result_image_path": "images/edited/img_008_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 9,
+    "source_image_id": "img_009",
+    "source_image_path": "images/original/img_009.jpg",
+    "prompt": "Add a dramatic lightning storm in the background sky",
+    "result_image_id": "img_009_edited",
+    "result_image_path": "images/edited/img_009_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 10,
+    "source_image_id": "img_010",
+    "source_image_path": "images/original/img_010.jpg",
+    "prompt": "Transform the field to winter replace flowers with snow",
+    "result_image_id": "img_010_edited",
+    "result_image_path": "images/edited/img_010_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 11,
+    "source_image_id": "img_011",
+    "source_image_path": "images/original/img_011.jpg",
+    "prompt": "Change the sky to a dramatic stormy sunset with purple clouds",
+    "result_image_id": "img_011_edited",
+    "result_image_path": "images/edited/img_011_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 12,
+    "source_image_id": "img_012",
+    "source_image_path": "images/original/img_012.jpg",
+    "prompt": "Add northern lights aurora borealis reflecting in the lake",
+    "result_image_id": "img_012_edited",
+    "result_image_path": "images/edited/img_012_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 13,
+    "source_image_id": "img_013",
+    "source_image_path": "images/original/img_013.jpg",
+    "prompt": "Transform the sunset to a full moon night scene over the sea",
+    "result_image_id": "img_013_edited",
+    "result_image_path": "images/edited/img_013_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 14,
+    "source_image_id": "img_014",
+    "source_image_path": "images/original/img_014.jpg",
+    "prompt": "Transform to winter freeze the waterfall with ice and snow",
+    "result_image_id": "img_014_edited",
+    "result_image_path": "images/edited/img_014_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 15,
+    "source_image_id": "img_015",
+    "source_image_path": "images/original/img_015.jpg",
+    "prompt": "Change the scene to a dramatic stormy evening with dark clouds",
+    "result_image_id": "img_015_edited",
+    "result_image_path": "images/edited/img_015_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 16,
+    "source_image_id": "img_016",
+    "source_image_path": "images/original/img_016.jpg",
+    "prompt": "Transform the sunset to a dramatic aurora borealis night sky",
+    "result_image_id": "img_016_edited",
+    "result_image_path": "images/edited/img_016_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 17,
+    "source_image_id": "img_017",
+    "source_image_path": "images/original/img_017.jpg",
+    "prompt": "Add heavy snowfall and transform the scene to a winter wonderland",
+    "result_image_id": "img_017_edited",
+    "result_image_path": "images/edited/img_017_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 18,
+    "source_image_id": "img_018",
+    "source_image_path": "images/original/img_018.jpg",
+    "prompt": "Replace the red sunset with a full moon rising over the silhouette",
+    "result_image_id": "img_018_edited",
+    "result_image_path": "images/edited/img_018_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 19,
+    "source_image_id": "img_019",
+    "source_image_path": "images/original/img_019.jpg",
+    "prompt": "Transform the scene to winter with snow covering the field and roof",
+    "result_image_id": "img_019_edited",
+    "result_image_path": "images/edited/img_019_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 20,
+    "source_image_id": "img_020",
+    "source_image_path": "images/original/img_020.jpg",
+    "prompt": "Enhance the fog and add mysterious dark storm clouds to the sky",
+    "result_image_id": "img_020_edited",
+    "result_image_path": "images/edited/img_020_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 21,
+    "source_image_id": "img_021",
+    "source_image_path": "images/original/img_021.jpg",
+    "prompt": "Change the flowers to vibrant purple lavender field in full bloom",
+    "result_image_id": "img_021_edited",
+    "result_image_path": "images/edited/img_021_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 22,
+    "source_image_id": "img_022",
+    "source_image_path": "images/original/img_022.jpg",
+    "prompt": "Transform to a rainy moody scene with dark clouds and wet flowers",
+    "result_image_id": "img_022_edited",
+    "result_image_path": "images/edited/img_022_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 23,
+    "source_image_id": "img_023",
+    "source_image_path": "images/original/img_023.jpg",
+    "prompt": "Change the sky to a dramatic sunset with deep red and purple colors",
+    "result_image_id": "img_023_edited",
+    "result_image_path": "images/edited/img_023_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 24,
+    "source_image_id": "img_024",
+    "source_image_path": "images/original/img_024.jpg",
+    "prompt": "Transform the scene to autumn with orange and red trees on the hills",
+    "result_image_id": "img_024_edited",
+    "result_image_path": "images/edited/img_024_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 25,
+    "source_image_id": "img_025",
+    "source_image_path": "images/original/img_025.jpg",
+    "prompt": "Add dramatic northern lights aurora borealis reflecting in the lake",
+    "result_image_id": "img_025_edited",
+    "result_image_path": "images/edited/img_025_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 26,
+    "source_image_id": "img_026",
+    "source_image_path": "images/original/img_026.jpg",
+    "prompt": "Transform to winter cover mountains with snow and freeze the lake",
+    "result_image_id": "img_026_edited",
+    "result_image_path": "images/edited/img_026_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 27,
+    "source_image_id": "img_027",
+    "source_image_path": "images/original/img_027.jpg",
+    "prompt": "Change the summer scene to a magical winter with snow on all trees",
+    "result_image_id": "img_027_edited",
+    "result_image_path": "images/edited/img_027_edited.jpg",
+    "status": "success"
+  },
+  {
+    "id": 28,
+    "source_image_id": "img_028",
+    "source_image_path": "images/original/img_028.jpg",
+    "prompt": "Replace the pastel sky with a dramatic stormy dark purple sky",
+    "result_image_id": "img_028_edited",
+    "result_image_path": "images/edited/img_028_edited.jpg",
+    "status": "success"
+  }
+]
